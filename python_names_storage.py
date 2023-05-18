@@ -10,23 +10,25 @@ headers = {
 
 credentials_dict = {
   "type": "service_account",
-  "project_id": "united-creek-382823",
-  "private_key_id": "2c4b5ef271fa7484fa3c003a55128afb994acf61",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC7RXxhM3rFv37H\nkwH2QgT6lfCoWHv3/Owq86/iwpdhFK+Tch+D37f/dJP6N9xOoCveKoCe14sXfUP6\nySe9jxEE1v3A3QGEBUK03UfdpPMNq9ap//M3lw/z4i1Naxos1cVEWS0sLIgdTPgf\n1XiJ6kMHKRngIIkwqKaEgQVsV7smZlRg5r5IS1R+oFO3fc7I/dtcQpDug6+YcuJ2\nkIjs52iqvwqCOYgDFt/DbQ/H5ajvcflcRlZVdH4KviatHcDY0yCyWv4C6IwisGFA\ndCbM3qZ2tupWAyvRkBB0UNy4Vq3nk+RcJmv5Pz4LhFs3aICD/nEmmz5tAVP+uads\npVEfJnaRAgMBAAECggEALtqyxOsJY6KGyM4aJo/cCQosvSHuWlx4hkKUFgsTruFr\nEFv0UJ1PvuVfBLKnNzDR6PL/XT6WeVkJAh0ECWRbILfdozxoXaynRPM8QNM9UIVW\n3w+/vX/ZKO7E4OLUGLWfdntNVwkJQTN5vRU+5FqtTIRXCgF58aewieRyA+prU67G\nyGn9s9Fek9a/CtBEp8leozSj4OgJ0+OpxyZswweFNjXUA75i5sxoXOLxycnpPCmy\nhTuDI/fxFcwTNFvFMDqyo6+KPuXXwNS97Fm1Qndsxcl+34ZZCAne0+SKb6KCOHVr\nXEosmK/6C3fsAM0+4hoNkc0uCC+tdwXlZx5wEIOUJQKBgQDqmHJTcJVwE8kAmcCI\nSfxjc7zO+YbypdIIRrS8MbBLqKApVm7/aJQ+yKyheXzzjfPKmvYJNFIs7CTxNSYZ\nM4V2Yk82p/bFmdmYdUNdTpRfyh6dDtNy/EdWGDEGmHJdNbuxUt/IIQ6pttZG7h/g\nYblZZtWYGXBBCcoJFokMpJ/3GwKBgQDMW6trNGbG6ACbNNtWg4hyy0KXQ3kgvqVy\nlaZP8r60gG0QY+mHufMBgfe8X55qYG6rLFJvNEoY0xPoidwfDQ0L9q021oxQihyL\nmz//9ocdXCOSWRM0ZqOYb/ZVPV6McdakE3ptx7mhkDYexEKmm5C1tET9IHidUgdD\n1G8+49qHwwKBgQCTDoEMIRTsLtrfT4JLbOWTiiefLvgS/zNMENaW6ibzJn9Pqmjm\nHi5ftPfSOQ/EtQVPyhfU6UFh+52kvoZlYdCVx0aUonGkqK6oTUmvIeUMruzF01dl\nSxOEuqFw2vtFxrsjiynQkDha1sw3pmnBBEFl83qNX9ToUDSfwcqjbEcCZQKBgCFA\nqVwAYtjq125p42bocEN9n5BNgmA5pWJHx5Aqx61HWHfaSh2zvD76jv0v8e8NUfS4\neZFuyL/RWOP1ysOitATGVtkdgCd60bpFwNw9mS7F12Pw6pcUPHqJfWPRYJkpzOtV\n4A4M+b+4X5YSCWZi2eE3PCKULgwrVNNMte1d1ilRAoGBAKEfzd2sVZ1BzQ+00YiM\nbrCNiUKue81VkEmDfD0adkz7i2RVp/kOlyn4cIc8ithHJQ/fPQldcKOcMeEunsgO\nwfft2Shd8qCp+QZ1m+GaelzffJyw2p75bifgrg7rN91AGm8sRgCmo69JfmjwSmZ+\nyYXHejr6zQlOAMcKSKiWhCQg\n-----END PRIVATE KEY-----\n",
-  "client_email": "922093530067-compute@developer.gserviceaccount.com",
-  "client_id": "114410630456998633776",
+  "project_id": "round-bloom-384323",
+  "private_key_id": "304e51cbc247d85b31f9c6cd4f46d46b63fc5a2f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC9Dbsb3Mz77dWa\nCxiI4WOXeDBxvkrnR4Jh0zk4V+Oxrd+6pF6OkKTyPxyVaF5+EUJeEA88xWkkgUhD\nr+ralCKaC3rRwVHlJJdJhmdyi7k0MiynzfELhXIBg/Pr+Im6GnZkdwoLQ3eSL+h3\nOE4BNMtreq/qUfaTJYl2HRNcbNTMveEsdUzsKdK5SMrFrT8xFPi9r2HyYYOZ9sni\nclMw6+jpxy16+O8Dk1BVL6qp3udQ0QbXIkcgq6Q/qeZAut0H2PWSJ2cVO0ZTEKpw\na5i5ZT6UcX1TugVWtL5ZFQvnW4+JNtBESrI+MW8q9JMp3+aQOZzD3haIOwJsEnoq\n+3bQ9tw5AgMBAAECggEARqW7brmP5nMlt8d+tyQW7fMNk2vLnOr1l63xu5LodSzn\nJt2msjruUNJx0YlrikvT08fHkeupk2k2gojaSC1EUvGIR5spCeqnGGRAAyegoZdA\nZcLJWYdYJ6XSQLOjcCbUaE2ttLDVHY2Gnwqs57l9bOAvne5cKPfFixxpcEgBK7MC\n2zM/lD3FMtkJusGT37URgg197lKYbjC4hhtrqogdNqmUjuJwxtkL9tHo9fka1e4l\nHFO7Yk/oOf2ieBQzbs34DKvRO/3cMIhQX7OlKw+i7yhRSSGHQiXt0XNViOzzRkQ5\ncahMxtByO7EZP5djRttC+xFcbSOawHJ4pjHrByBsAwKBgQDhPhHG4mGgOfCzpOGH\nifLuSIvF/KBDrZUiJESusR9QvmUrWNXqx8wmesZH+w59Lr+nqcDgpFKDs0kGyQuH\neIn2wbkVG2Y1Esgamt3JsULFiNoGUXVpJQfTyy/K3W0sGfmSY2SRtAk7P/HSPnWB\n2AsUhcqoEejqet2R8l416DJtlwKBgQDW3paBXaX1f14lpkcdNNG3rcIJGh7mqB3J\nZJtZenG+mjVDBrE+eYv6+lorDD4dreHyKbKKMAcLVxh0aRnkbooSfD5c2Vvk2QXr\nZbopjDNIBybW2m72NV+14fkQDZxfMDZx7j1bvT5w7lDP7vKCTIqP+Wq0NG9U8LqN\nqNkIONPerwKBgBJnivZQSx/XfCaBo3f6uqHjxaAA22uMRHJMulv31xI27HdVQ+1y\nM+k1APyis/Vgm4JsqXjxlFh0jtQCG3IPVF6YR7JE0d4mUblyzAqN9GHFo+L+RvS3\ndONGZ/pQi3oeCTl/65jIODTiLbU7K0jXyVf88qk3BWwba/1f63jGJ1CzAoGBAIKm\n8klTUliGzA6EnvVJasQPac7zDRsf2ozdGgE8jPFi/0P0S847RjykAjPuy85sLtl7\nNU8FiSMCIKKYTeAyvs4isiDvIgtzU0AhqSMeVwhTIPC//XzEU6Ba+YEjZZQT0udQ\nAAtKdS9iGc119Av60r5c4N8WiyPRBP6iTuXK+DmNAoGAKALgEkiJW63hlcJiU+oK\nUAnUU+HeoNcn/+IQ9LnySGVkIW9eDnHAi1w461PMi2Sa4aZAAYHDZ70XxZ0l3oK1\nGHaAX35H4RBsfbGco9cacN2ojRhG7+qQoF9R3qco4OBVaMybMgT5+RlrvyDUQz4S\n8/bbuHjA6aDLGpGfHhhKjnI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "263674655995-compute@developer.gserviceaccount.com",
+  "client_id": "116555595654426463862",
   "auth_uri": "https://accounts.google.com/o/oauth2/auth",
   "token_uri": "https://oauth2.googleapis.com/token",
   "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/922093530067-compute%40developer.gserviceaccount.com"
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/263674655995-compute%40developer.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
 }
+
 
 try:
 
   """Uploads a file to the bucket."""
   credentials = service_account.Credentials.from_service_account_info(credentials_dict)
   storage_client = storage.Client(credentials=credentials)
-  bucket = storage_client.get_bucket('artists_names_mari') ### Nome do seu bucket
+  bucket = storage_client.get_bucket('atividade4igorr') ### Nome do seu bucket
   blob = bucket.blob('artist-names.csv')
 
   pages = []
